@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<time.h>
-#define FILE_NAME "test.csv"
+#define FILE_NAME "mead.csv"
 
 int main()
 {
